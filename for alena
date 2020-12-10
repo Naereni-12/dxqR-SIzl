@@ -1,0 +1,16 @@
+def search():
+    raw_list = []
+    clean_list = []
+    
+    for i in range(-9563, -3102):
+        if i % 7 == 0 and i // 11 != 0 and i % 23 != 0:
+            raw_list.append(i)
+    
+    for i in raw_list:
+        if str(i)[-1] != '8':
+            clean_list.append(i)
+        
+    print(len(clean_list))
+    print(max(clean_list))
+
+search()
