@@ -1,16 +1,33 @@
+'''
+варик с 2 списками
+'''
+
 def search():
-    raw_list = []
-    clean_list = []
-    
+    result = []
     for i in range(-9563, -3102):
-        if i % 7 == 0 and i // 11 != 0 and i % 23 != 0:
-            raw_list.append(i)
-    
-    for i in raw_list:
-        if str(i)[-1] != '8':
-            clean_list.append(i)
+        if i % 7 == 0 and i % 11 != 0 and i % 23 != 0:
+            if str(i)[-1] != '8':
+                result.append(i)
         
-    print(len(clean_list))
-    print(max(clean_list))
+    print(len(result))
+    print(max(result))
+
+search()
+
+'''
+варик, как ты его хотела решать
+'''
+
+def search():
+    lenght = 0
+    max_value = 0
+    for i in range(-9563, -3102):
+        if i % 7 == 0 and i % 11 != 0 and i % 23 != 0:
+            if str(i)[-1] != '8':
+                lenght += 1
+                max_value = i
+        
+    print(lenght)
+    print(max_value)
 
 search()
