@@ -1,4 +1,5 @@
-[link](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#2-государство)
+[§1](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#2-государство)
+[§][https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#2-государство]
 
 # §1. Политика и власть
 
