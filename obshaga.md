@@ -7,8 +7,8 @@
 [§7](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#7-политические-партии-и-движения)
 [§8](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#8-право-его-роль-в-жизни-общества-и-государства)
 [§9](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#9-правоотношения-и-субъекты-права)
-[§10]()
-[§11]()
+[§10](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#10-правонарушения-и-юридическая-ответственность)
+[§]()
 
 # §1. Политика и власть
 
