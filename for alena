@@ -1,7 +1,6 @@
 '''
 варик с 2 списками
 '''
-
 def search():
     result = []
     for i in range(-9563, -3102):
