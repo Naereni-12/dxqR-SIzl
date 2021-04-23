@@ -1,4 +1,4 @@
-[§1](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#2-государство)
+[§1](https://github.com/Naereni-12/Summary_of_Obshaga/blob/main/Synopsis.md#1-%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B8-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D1%8C)
 [§2](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#2-государство )
 [§3](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#3-политические-режимы )
 [§4](https://github.com/Naereni-12/dxqR-SIzl/blob/master/obshaga.md#4-правовое-государство ) 
